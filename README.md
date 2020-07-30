@@ -11,6 +11,6 @@ Usage:
 ```
 
 You can provide:
--1 plugboard 
--Unlimited rotors 
--1 position file containing all starting positions
+  1 plugboard 
+  Unlimited rotors 
+  1 position file containing all starting positions
